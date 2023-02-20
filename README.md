@@ -1,3 +1,3 @@
 Аналог CRA.
 
-Поддержка Typescript, tsx, React, SASS.
+Поддержка Typescript, Webpack, React, SASS.
